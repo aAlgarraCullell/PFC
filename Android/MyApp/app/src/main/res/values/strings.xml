@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <string name="hello_world">aaay, pollito la que has liado! jijiji</string>
     <string name="app_name">MyApp</string>
-    <string name="hello_world">aaay, pollito la que has liao! jijiji</string>
     <string name="action_settings">Settings</string>
 
 </resources>
